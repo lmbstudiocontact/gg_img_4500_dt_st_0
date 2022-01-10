@@ -1,6 +1,6 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/yard_gg_img_4500_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yard_gg_img_4500_it.json",
     "id_item": "yard_gg_img_4500_it",
     "id_album": "113162181",
     "english": "yard",
@@ -29,10 +29,10 @@
         "id_image": "yard_5776764"
       }
     ],
-    "hash_code_list_img": "283608645"
+    "hash_code_list_img": "1855066016"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/yarn_gg_img_4500_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yarn_gg_img_4500_it.json",
     "id_item": "yarn_gg_img_4500_it",
     "id_album": "113162181",
     "english": "yarn",
@@ -56,10 +56,10 @@
         "id_image": "yarn_588425"
       }
     ],
-    "hash_code_list_img": "1947373056"
+    "hash_code_list_img": "601707937"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/yawn_gg_img_4500_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yawn_gg_img_4500_it.json",
     "id_item": "yawn_gg_img_4500_it",
     "id_album": "113162181",
     "english": "yawn",
@@ -88,10 +88,77 @@
         "id_image": "yawn_5509051"
       }
     ],
-    "hash_code_list_img": "1883035844"
+    "hash_code_list_img": "1746104019"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/young_gg_img_4500_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yearbook_gg_img_4500_it.json",
+    "id_item": "yearbook_gg_img_4500_it",
+    "id_album": "113162181",
+    "english": "yearbook",
+    "list_mean": [
+      "niên giám",
+      "sách in hàng năm"
+    ],
+    "cau_en": "Yearbook of Physical Anthropology",
+    "cau_vn": "Niên giám nhân chủng học",
+    "hash_code_list_mean": "-985972516",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809331056_c8a6d70b71_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809331056_c24c4b8984_o.png",
+        "id_image": "yearbook_124774"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067775_4c095360b2_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067775_7f80343b3a_o.png",
+        "id_image": "yearbook_124775"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375612_8c6c8b6789_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375612_95075f2658_o.png",
+        "id_image": "yearbook_4650656"
+      }
+    ],
+    "hash_code_list_img": "-16584114"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/yogurt_gg_img_4500_it.json",
+    "id_item": "yogurt_gg_img_4500_it",
+    "id_album": "113162181",
+    "english": "yogurt",
+    "list_mean": [
+      "da ua",
+      "sữa chua"
+    ],
+    "cau_en": "low-fat yogurt",
+    "cau_vn": "sữa chua ít chất béo",
+    "hash_code_list_mean": "-1885242072",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445378_d99d00f923_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445378_5258c1cdb5_o.png",
+        "id_image": "yogurt_1867864"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810067250_169d1d5b42_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810067250_a40af94f2d_o.png",
+        "id_image": "yogurt_1907132"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685459_5cb881e09d_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685459_3cd065b6cb_o.png",
+        "id_image": "yogurt_2923208"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808375037_cd4eaaba1b_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808375037_8cae637048_o.png",
+        "id_image": "yogurt_2934145"
+      }
+    ],
+    "hash_code_list_img": "26760914"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/young_gg_img_4500_it.json",
     "id_item": "young_gg_img_4500_it",
     "id_album": "113162181",
     "english": "young",
@@ -125,10 +192,10 @@
         "id_image": "young_3576969"
       }
     ],
-    "hash_code_list_img": "-297808080"
+    "hash_code_list_img": "919943748"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/youth_gg_img_4500_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/youth_gg_img_4500_it.json",
     "id_item": "youth_gg_img_4500_it",
     "id_album": "113162181",
     "english": "youth",
@@ -157,10 +224,48 @@
         "id_image": "youth_4901028"
       }
     ],
-    "hash_code_list_img": "-833505338"
+    "hash_code_list_img": "1996703779"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/zigzag_gg_img_4500_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zany_gg_img_4500_it.json",
+    "id_item": "zany_gg_img_4500_it",
+    "id_album": "113162181",
+    "english": "zany",
+    "list_mean": [
+      "đần độn",
+      "khờ dại,",
+      "người ngu ngốc",
+      "thằng hề"
+    ],
+    "cau_en": "zany humor",
+    "cau_vn": "Zany hài hước.",
+    "hash_code_list_mean": "-2083131693",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445223_64e2753b11_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445223_9a3d819d4f_o.png",
+        "id_image": "zany_1933795"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809330241_c7cf7eb732_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809330241_fa9ef9ee72_o.png",
+        "id_image": "zany_1933799"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685299_a5ebbd594e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685299_608fa2dece_o.png",
+        "id_image": "zany_3362076"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809685274_6829454b21_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809685274_e7e891049f_o.png",
+        "id_image": "zany_3508752"
+      }
+    ],
+    "hash_code_list_img": "-898622350"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zigzag_gg_img_4500_it.json",
     "id_item": "zigzag_gg_img_4500_it",
     "id_album": "113162181",
     "english": "zigzag",
@@ -177,10 +282,10 @@
         "id_image": "zigzag_1655263"
       }
     ],
-    "hash_code_list_img": "1805031373"
+    "hash_code_list_img": "1317171187"
   },
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/zone_gg_img_4500_it.json",
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zone_gg_img_4500_it.json",
     "id_item": "zone_gg_img_4500_it",
     "id_album": "113162181",
     "english": "zone",
@@ -198,6 +303,61 @@
         "id_image": "zone_2191451"
       }
     ],
-    "hash_code_list_img": "1559258972"
+    "hash_code_list_img": "1595169067"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zoom_gg_img_4500_it.json",
+    "id_item": "zoom_gg_img_4500_it",
+    "id_album": "113162181",
+    "english": "zoom",
+    "list_mean": [
+      "ống dòm"
+    ],
+    "cau_en": "the camera zoomed in for a close-up of his face",
+    "cau_vn": "Máy ảnh phóng to để cận cảnh khuôn mặt của anh ấy",
+    "hash_code_list_mean": "-1047537743",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809444893_a02bfda0cc_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809444893_4713eff869_o.png",
+        "id_image": "zoom_1512794"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51810066580_857b84afb1_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51810066580_f3d3bfd1c4_o.png",
+        "id_image": "zoom_4151796"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51808374477_9ca2f00f0c_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51808374477_76132f2bde_o.png",
+        "id_image": "zoom_4463647"
+      }
+    ],
+    "hash_code_list_img": "-44125964"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_4/raw/main/zoo_gg_img_4500_it.json",
+    "id_item": "zoo_gg_img_4500_it",
+    "id_album": "113162181",
+    "english": "zoo",
+    "list_mean": [
+      "vườn bách thú"
+    ],
+    "cau_en": "",
+    "cau_vn": "",
+    "hash_code_list_mean": "2025723235",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809445028_11d3d18f2e_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809445028_24d750a167_o.png",
+        "id_image": "zoo_831506"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809684944_c3afbb4c84_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809684944_a4ab4922fd_o.png",
+        "id_image": "zoo_848571"
+      }
+    ],
+    "hash_code_list_img": "-252359291"
   }
 ]
