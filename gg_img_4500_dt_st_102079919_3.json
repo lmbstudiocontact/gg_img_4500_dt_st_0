@@ -1,50 +1,5 @@
 [
   {
-    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nest_gg_img_4500_it.json",
-    "id_item": "nest_gg_img_4500_it",
-    "id_album": "102079919",
-    "english": "nest",
-    "list_mean": [
-      "bộ đồ vật",
-      "chổ ẩn núp",
-      "một lứa chim đẻ",
-      "một ổ chim",
-      "ổ chuột",
-      "sào huyệt",
-      "tổ chim",
-      "ẩn núp",
-      "chim làm ổ",
-      "lập ổ",
-      "lồng"
-    ],
-    "cau_en": "two sparrows frantically building a nest",
-    "cau_vn": "Hai con chim sẻ điên cuồng xây dựng một tổ",
-    "hash_code_list_mean": "-1594877383",
-    "list_img": [
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809439393_0483b6d649_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809439393_a6c53152d0_o.png",
-        "id_image": "nest_1809034"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51808369292_85b592823c_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51808369292_1be490eb59_o.png",
-        "id_image": "nest_183958"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809439358_80f1664592_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809439358_193d5b0cd3_o.png",
-        "id_image": "nest_2851878"
-      },
-      {
-        "link_thumb": "https://live.staticflickr.com/65535/51809324381_a87759d5b2_n.jpg",
-        "link_img": "https://live.staticflickr.com/65535/51809324381_1b57405267_o.png",
-        "id_image": "nest_427432"
-      }
-    ],
-    "hash_code_list_img": "-1983294257"
-  },
-  {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/network_gg_img_4500_it.json",
     "id_item": "network_gg_img_4500_it",
     "id_album": "102079919",
@@ -81,7 +36,7 @@
         "id_image": "network_755033"
       }
     ],
-    "hash_code_list_img": "-911768693"
+    "hash_code_list_img": "1775554151"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/neural_gg_img_4500_it.json",
@@ -107,7 +62,7 @@
         "id_image": "neural_2103658"
       }
     ],
-    "hash_code_list_img": "2147030369"
+    "hash_code_list_img": "-191009816"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/neuter_gg_img_4500_it.json",
@@ -139,7 +94,7 @@
         "id_image": "neuter_2935070"
       }
     ],
-    "hash_code_list_img": "463985481"
+    "hash_code_list_img": "1812378075"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/neutral_gg_img_4500_it.json",
@@ -186,7 +141,7 @@
         "id_image": "neutral_520438"
       }
     ],
-    "hash_code_list_img": "616551446"
+    "hash_code_list_img": "-666011643"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/newborn_gg_img_4500_it.json",
@@ -207,7 +162,7 @@
         "id_image": "newborn_388350"
       }
     ],
-    "hash_code_list_img": "125455307"
+    "hash_code_list_img": "463985481"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/newspaper_gg_img_4500_it.json",
@@ -233,7 +188,7 @@
         "id_image": "newspaper_420448"
       }
     ],
-    "hash_code_list_img": "-1811772482"
+    "hash_code_list_img": "-1537713372"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/news_gg_img_4500_it.json",
@@ -261,7 +216,7 @@
         "id_image": "news_823470"
       }
     ],
-    "hash_code_list_img": "305455083"
+    "hash_code_list_img": "2080796099"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/next_gg_img_4500_it.json",
@@ -295,7 +250,7 @@
         "id_image": "next_6321842"
       }
     ],
-    "hash_code_list_img": "2068744192"
+    "hash_code_list_img": "703783793"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nice_gg_img_4500_it.json",
@@ -331,7 +286,7 @@
         "id_image": "nice_3770792"
       }
     ],
-    "hash_code_list_img": "-544653643"
+    "hash_code_list_img": "-1811772482"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/niche_gg_img_4500_it.json",
@@ -359,7 +314,7 @@
         "id_image": "niche_5965893"
       }
     ],
-    "hash_code_list_img": "-338240994"
+    "hash_code_list_img": "305455083"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nightcap_gg_img_4500_it.json",
@@ -380,7 +335,7 @@
         "id_image": "nightcap_1601232"
       }
     ],
-    "hash_code_list_img": "789479367"
+    "hash_code_list_img": "183708030"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nightmare_gg_img_4500_it.json",
@@ -406,7 +361,7 @@
         "id_image": "nightmare_3527365"
       }
     ],
-    "hash_code_list_img": "-447226860"
+    "hash_code_list_img": "155763246"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/night_gg_img_4500_it.json",
@@ -440,7 +395,7 @@
         "id_image": "night_5079909"
       }
     ],
-    "hash_code_list_img": "411259254"
+    "hash_code_list_img": "-1545667333"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/node_gg_img_4500_it.json",
@@ -469,7 +424,7 @@
         "id_image": "node_4292398"
       }
     ],
-    "hash_code_list_img": "773873896"
+    "hash_code_list_img": "-677847404"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/noise_gg_img_4500_it.json",
@@ -504,7 +459,7 @@
         "id_image": "noise_4243465"
       }
     ],
-    "hash_code_list_img": "-1950798948"
+    "hash_code_list_img": "-1059861820"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nomadic_gg_img_4500_it.json",
@@ -530,7 +485,7 @@
         "id_image": "nomadic_6213745"
       }
     ],
-    "hash_code_list_img": "1659614853"
+    "hash_code_list_img": "1052631022"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nomad_gg_img_4500_it.json",
@@ -566,7 +521,7 @@
         "id_image": "nomad_5999337"
       }
     ],
-    "hash_code_list_img": "119671704"
+    "hash_code_list_img": "-1224748644"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nomination_gg_img_4500_it.json",
@@ -593,7 +548,7 @@
         "id_image": "nomination_4033790"
       }
     ],
-    "hash_code_list_img": "-1832513094"
+    "hash_code_list_img": "1659614853"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nominee_gg_img_4500_it.json",
@@ -614,7 +569,7 @@
         "id_image": "nominee_2473122"
       }
     ],
-    "hash_code_list_img": "2011640028"
+    "hash_code_list_img": "1421622254"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/noodle_gg_img_4500_it.json",
@@ -654,7 +609,7 @@
         "id_image": "noodle_995879"
       }
     ],
-    "hash_code_list_img": "1022604060"
+    "hash_code_list_img": "56150953"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/noose_gg_img_4500_it.json",
@@ -679,7 +634,7 @@
         "id_image": "noose_2851862"
       }
     ],
-    "hash_code_list_img": "971690454"
+    "hash_code_list_img": "1857403398"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/normalization_gg_img_4500_it.json",
@@ -710,7 +665,7 @@
         "id_image": "normalization_6213759"
       }
     ],
-    "hash_code_list_img": "1954819917"
+    "hash_code_list_img": "280547236"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/norm_gg_img_4500_it.json",
@@ -735,7 +690,7 @@
         "id_image": "norm_3053764"
       }
     ],
-    "hash_code_list_img": "880715599"
+    "hash_code_list_img": "1410173844"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/northeast_gg_img_4500_it.json",
@@ -757,7 +712,7 @@
         "id_image": "northeast_5515126"
       }
     ],
-    "hash_code_list_img": "1779341339"
+    "hash_code_list_img": "971690454"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nose_gg_img_4500_it.json",
@@ -786,7 +741,7 @@
         "id_image": "nose_6147559"
       }
     ],
-    "hash_code_list_img": "1713837013"
+    "hash_code_list_img": "669807810"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nostalgic_gg_img_4500_it.json",
@@ -808,7 +763,7 @@
         "id_image": "nostalgic_4207243"
       }
     ],
-    "hash_code_list_img": "1163107319"
+    "hash_code_list_img": "905905995"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/notebook_gg_img_4500_it.json",
@@ -833,7 +788,7 @@
         "id_image": "notebook_200434"
       }
     ],
-    "hash_code_list_img": "-2090038193"
+    "hash_code_list_img": "-678911533"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/note_gg_img_4500_it.json",
@@ -885,7 +840,7 @@
         "id_image": "note_342710"
       }
     ],
-    "hash_code_list_img": "-2054185936"
+    "hash_code_list_img": "-1200756688"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/notice_gg_img_4500_it.json",
@@ -926,7 +881,7 @@
         "id_image": "notice_6000874"
       }
     ],
-    "hash_code_list_img": "-943660663"
+    "hash_code_list_img": "-1035402555"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/notification_gg_img_4500_it.json",
@@ -959,7 +914,7 @@
         "id_image": "notification_814115"
       }
     ],
-    "hash_code_list_img": "-937638836"
+    "hash_code_list_img": "-2054185936"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/notify_gg_img_4500_it.json",
@@ -984,7 +939,7 @@
         "id_image": "notify_6192141"
       }
     ],
-    "hash_code_list_img": "1353941857"
+    "hash_code_list_img": "845519229"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/notoriety_gg_img_4500_it.json",
@@ -1007,7 +962,7 @@
         "id_image": "notoriety_4776081"
       }
     ],
-    "hash_code_list_img": "1112151374"
+    "hash_code_list_img": "871557923"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/notorious_gg_img_4500_it.json",
@@ -1030,7 +985,7 @@
         "id_image": "notorious_4060736"
       }
     ],
-    "hash_code_list_img": "1083020410"
+    "hash_code_list_img": "1307655663"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nougat_gg_img_4500_it.json",
@@ -1055,7 +1010,7 @@
         "id_image": "nougat_842717"
       }
     ],
-    "hash_code_list_img": "-104438523"
+    "hash_code_list_img": "-595480042"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nourishment_gg_img_4500_it.json",
@@ -1076,7 +1031,7 @@
         "id_image": "nourishment_5101271"
       }
     ],
-    "hash_code_list_img": "1270478835"
+    "hash_code_list_img": "342373313"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/novel_gg_img_4500_it.json",
@@ -1111,7 +1066,7 @@
         "id_image": "novel_5190722"
       }
     ],
-    "hash_code_list_img": "1965276129"
+    "hash_code_list_img": "963007533"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/novice_gg_img_4500_it.json",
@@ -1134,7 +1089,7 @@
         "id_image": "novice_2720627"
       }
     ],
-    "hash_code_list_img": "117079299"
+    "hash_code_list_img": "363682538"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nozzle_gg_img_4500_it.json",
@@ -1166,7 +1121,7 @@
         "id_image": "nozzle_6347081"
       }
     ],
-    "hash_code_list_img": "1875727876"
+    "hash_code_list_img": "-1678080082"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nuclear_gg_img_4500_it.json",
@@ -1193,7 +1148,7 @@
         "id_image": "nuclear_306717"
       }
     ],
-    "hash_code_list_img": "1131918655"
+    "hash_code_list_img": "-233223537"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nucleus_gg_img_4500_it.json",
@@ -1218,7 +1173,7 @@
         "id_image": "nucleus_203256"
       }
     ],
-    "hash_code_list_img": "90480500"
+    "hash_code_list_img": "117079299"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/null_gg_img_4500_it.json",
@@ -1241,7 +1196,7 @@
         "id_image": "null_5108591"
       }
     ],
-    "hash_code_list_img": "1434527729"
+    "hash_code_list_img": "891193041"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/number_gg_img_4500_it.json",
@@ -1279,7 +1234,7 @@
         "id_image": "number_2248043"
       }
     ],
-    "hash_code_list_img": "2014130917"
+    "hash_code_list_img": "137708340"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/numb_gg_img_4500_it.json",
@@ -1307,7 +1262,7 @@
         "id_image": "numb_6349609"
       }
     ],
-    "hash_code_list_img": "1640763577"
+    "hash_code_list_img": "1131918655"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nurse_gg_img_4500_it.json",
@@ -1347,7 +1302,7 @@
         "id_image": "nurse_822111"
       }
     ],
-    "hash_code_list_img": "2016281619"
+    "hash_code_list_img": "-55544098"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nutrition_gg_img_4500_it.json",
@@ -1379,7 +1334,7 @@
         "id_image": "nutrition_757012"
       }
     ],
-    "hash_code_list_img": "1226560824"
+    "hash_code_list_img": "-301563256"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nut_gg_img_4500_it.json",
@@ -1426,7 +1381,7 @@
         "id_image": "nut_6301315"
       }
     ],
-    "hash_code_list_img": "-1514327865"
+    "hash_code_list_img": "380554096"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/nymph_gg_img_4500_it.json",
@@ -1453,7 +1408,7 @@
         "id_image": "nymph_2463622"
       }
     ],
-    "hash_code_list_img": "-647626924"
+    "hash_code_list_img": "-80385615"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oar_gg_img_4500_it.json",
@@ -1480,7 +1435,7 @@
         "id_image": "oar_280071"
       }
     ],
-    "hash_code_list_img": "-435722149"
+    "hash_code_list_img": "-360784565"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oath_gg_img_4500_it.json",
@@ -1513,7 +1468,7 @@
         "id_image": "oath_4474008"
       }
     ],
-    "hash_code_list_img": "-1205451294"
+    "hash_code_list_img": "-698670877"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oatmeal_gg_img_4500_it.json",
@@ -1534,7 +1489,7 @@
         "id_image": "oatmeal_5098762"
       }
     ],
-    "hash_code_list_img": "1266568499"
+    "hash_code_list_img": "1222272273"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/obese_gg_img_4500_it.json",
@@ -1565,7 +1520,7 @@
         "id_image": "obesity_6193603"
       }
     ],
-    "hash_code_list_img": "383707540"
+    "hash_code_list_img": "1100043775"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/obesity_gg_img_4500_it.json",
@@ -1596,7 +1551,7 @@
         "id_image": "obesity_6193603"
       }
     ],
-    "hash_code_list_img": "-1032618828"
+    "hash_code_list_img": "-1321046646"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/obituary_gg_img_4500_it.json",
@@ -1623,7 +1578,7 @@
         "id_image": "obituary_6001064"
       }
     ],
-    "hash_code_list_img": "1334193832"
+    "hash_code_list_img": "239592568"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/objective_gg_img_4500_it.json",
@@ -1662,7 +1617,7 @@
         "id_image": "objective_5138138"
       }
     ],
-    "hash_code_list_img": "59444953"
+    "hash_code_list_img": "448787786"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/object_gg_img_4500_it.json",
@@ -1700,7 +1655,7 @@
         "id_image": "object_4882941"
       }
     ],
-    "hash_code_list_img": "-1187462458"
+    "hash_code_list_img": "-159833235"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/obligation_gg_img_4500_it.json",
@@ -1723,7 +1678,7 @@
         "id_image": "obligation_1401429"
       }
     ],
-    "hash_code_list_img": "334720404"
+    "hash_code_list_img": "1580600410"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oblique_gg_img_4500_it.json",
@@ -1749,7 +1704,7 @@
         "id_image": "oblique_2548519"
       }
     ],
-    "hash_code_list_img": "1843768693"
+    "hash_code_list_img": "615280654"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/observation_gg_img_4500_it.json",
@@ -1790,7 +1745,7 @@
         "id_image": "observation_5756903"
       }
     ],
-    "hash_code_list_img": "-637152992"
+    "hash_code_list_img": "302724391"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/observe_gg_img_4500_it.json",
@@ -1828,7 +1783,7 @@
         "id_image": "observe_6041392"
       }
     ],
-    "hash_code_list_img": "-453983809"
+    "hash_code_list_img": "1693730702"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/obsession_gg_img_4500_it.json",
@@ -1854,7 +1809,7 @@
         "id_image": "obsession_552416"
       }
     ],
-    "hash_code_list_img": "-21239489"
+    "hash_code_list_img": "-1755125962"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/obsolete_gg_img_4500_it.json",
@@ -1878,7 +1833,7 @@
         "id_image": "obsolete_1610496"
       }
     ],
-    "hash_code_list_img": "132753493"
+    "hash_code_list_img": "1151617571"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/obstacle_gg_img_4500_it.json",
@@ -1908,7 +1863,7 @@
         "id_image": "obstacle_3751980"
       }
     ],
-    "hash_code_list_img": "2001203824"
+    "hash_code_list_img": "-453983809"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/occupation_gg_img_4500_it.json",
@@ -1937,7 +1892,7 @@
         "id_image": "occupation_6213918"
       }
     ],
-    "hash_code_list_img": "-1658307328"
+    "hash_code_list_img": "-21239489"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/ocean_gg_img_4500_it.json",
@@ -1965,7 +1920,7 @@
         "id_image": "ocean_3254422"
       }
     ],
-    "hash_code_list_img": "-932091739"
+    "hash_code_list_img": "127621272"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oculist_gg_img_4500_it.json",
@@ -1985,7 +1940,7 @@
         "id_image": "oculist_3060376"
       }
     ],
-    "hash_code_list_img": "661941373"
+    "hash_code_list_img": "1974105890"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/odor_gg_img_4500_it.json",
@@ -2020,7 +1975,7 @@
         "id_image": "odor_5830347"
       }
     ],
-    "hash_code_list_img": "-1390222769"
+    "hash_code_list_img": "-1766367867"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/offer_gg_img_4500_it.json",
@@ -2058,7 +2013,7 @@
         "id_image": "offer_5434154"
       }
     ],
-    "hash_code_list_img": "-50468058"
+    "hash_code_list_img": "1831868505"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/officer_gg_img_4500_it.json",
@@ -2097,7 +2052,7 @@
         "id_image": "officer_6417642"
       }
     ],
-    "hash_code_list_img": "2129478168"
+    "hash_code_list_img": "1269619379"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/office_gg_img_4500_it.json",
@@ -2137,7 +2092,7 @@
         "id_image": "office_875282"
       }
     ],
-    "hash_code_list_img": "-230463918"
+    "hash_code_list_img": "665933025"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/official_gg_img_4500_it.json",
@@ -2161,7 +2116,7 @@
         "id_image": "official_1848932"
       }
     ],
-    "hash_code_list_img": "384097144"
+    "hash_code_list_img": "1671900389"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/offset_gg_img_4500_it.json",
@@ -2204,7 +2159,7 @@
         "id_image": "offset_1026509"
       }
     ],
-    "hash_code_list_img": "-1328410285"
+    "hash_code_list_img": "-1385036282"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/offshore_gg_img_4500_it.json",
@@ -2234,7 +2189,7 @@
         "id_image": "offshore_6315464"
       }
     ],
-    "hash_code_list_img": "-1329597729"
+    "hash_code_list_img": "1640779748"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/off_gg_img_4500_it.json",
@@ -2263,7 +2218,7 @@
         "id_image": "off_4752777"
       }
     ],
-    "hash_code_list_img": "-2098590563"
+    "hash_code_list_img": "2002677257"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oil_gg_img_4500_it.json",
@@ -2293,7 +2248,7 @@
         "id_image": "oil_662854"
       }
     ],
-    "hash_code_list_img": "1760008762"
+    "hash_code_list_img": "1549898239"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/ointment_gg_img_4500_it.json",
@@ -2324,7 +2279,7 @@
         "id_image": "ointment_980035"
       }
     ],
-    "hash_code_list_img": "-111449085"
+    "hash_code_list_img": "-335774288"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/old_gg_img_4500_it.json",
@@ -2357,7 +2312,7 @@
         "id_image": "old_2446919"
       }
     ],
-    "hash_code_list_img": "-1536953209"
+    "hash_code_list_img": "-675282773"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/olive_gg_img_4500_it.json",
@@ -2389,7 +2344,7 @@
         "id_image": "olive_5830518"
       }
     ],
-    "hash_code_list_img": "1800719831"
+    "hash_code_list_img": "-111449085"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/onion_gg_img_4500_it.json",
@@ -2411,7 +2366,7 @@
         "id_image": "onion_952021"
       }
     ],
-    "hash_code_list_img": "1015503088"
+    "hash_code_list_img": "1341047203"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/opacity_gg_img_4500_it.json",
@@ -2444,7 +2399,7 @@
         "id_image": "opacity_828561"
       }
     ],
-    "hash_code_list_img": "-519861035"
+    "hash_code_list_img": "336153073"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/opener_gg_img_4500_it.json",
@@ -2479,7 +2434,7 @@
         "id_image": "opener_823229"
       }
     ],
-    "hash_code_list_img": "-1606696616"
+    "hash_code_list_img": "934342217"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/open_gg_img_4500_it.json",
@@ -2527,7 +2482,7 @@
         "id_image": "open_4383420"
       }
     ],
-    "hash_code_list_img": "4797364"
+    "hash_code_list_img": "1966062942"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/operation_gg_img_4500_it.json",
@@ -2572,7 +2527,7 @@
         "id_image": "operation_5138535"
       }
     ],
-    "hash_code_list_img": "1665027236"
+    "hash_code_list_img": "422767578"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/operative_gg_img_4500_it.json",
@@ -2597,7 +2552,7 @@
         "id_image": "operative_1622617"
       }
     ],
-    "hash_code_list_img": "26065978"
+    "hash_code_list_img": "1465731322"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/operator_gg_img_4500_it.json",
@@ -2634,7 +2589,7 @@
         "id_image": "operator_6083035"
       }
     ],
-    "hash_code_list_img": "658416434"
+    "hash_code_list_img": "-965800055"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/opera_gg_img_4500_it.json",
@@ -2670,7 +2625,7 @@
         "id_image": "opera_4761450"
       }
     ],
-    "hash_code_list_img": "-434955583"
+    "hash_code_list_img": "361528687"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/opinion_gg_img_4500_it.json",
@@ -2711,7 +2666,7 @@
         "id_image": "opinion_5779045"
       }
     ],
-    "hash_code_list_img": "461123216"
+    "hash_code_list_img": "-1815924428"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/opponent_gg_img_4500_it.json",
@@ -2743,7 +2698,7 @@
         "id_image": "opponent_5087858"
       }
     ],
-    "hash_code_list_img": "1210934799"
+    "hash_code_list_img": "1421486298"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/opportunity_gg_img_4500_it.json",
@@ -2779,7 +2734,7 @@
         "id_image": "opportunity_6064806"
       }
     ],
-    "hash_code_list_img": "-1264290343"
+    "hash_code_list_img": "970655376"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/optical_gg_img_4500_it.json",
@@ -2815,7 +2770,7 @@
         "id_image": "optical_948492"
       }
     ],
-    "hash_code_list_img": "1187085005"
+    "hash_code_list_img": "-2040367771"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/optimism_gg_img_4500_it.json",
@@ -2845,7 +2800,7 @@
         "id_image": "optimism_6002947"
       }
     ],
-    "hash_code_list_img": "-1376113770"
+    "hash_code_list_img": "322105764"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/optimistic_gg_img_4500_it.json",
@@ -2865,7 +2820,7 @@
         "id_image": "optimistic_708610"
       }
     ],
-    "hash_code_list_img": "655326060"
+    "hash_code_list_img": "976994553"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/option_gg_img_4500_it.json",
@@ -2902,7 +2857,7 @@
         "id_image": "option_6388845"
       }
     ],
-    "hash_code_list_img": "-1210573647"
+    "hash_code_list_img": "-188184836"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/oral_gg_img_4500_it.json",
@@ -2930,7 +2885,7 @@
         "id_image": "oral_2037310"
       }
     ],
-    "hash_code_list_img": "-1942121703"
+    "hash_code_list_img": "493493590"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/orange_gg_img_4500_it.json",
@@ -2956,7 +2911,7 @@
         "id_image": "orange_501324"
       }
     ],
-    "hash_code_list_img": "1587232400"
+    "hash_code_list_img": "-1965134127"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/orbit_gg_img_4500_it.json",
@@ -2991,7 +2946,7 @@
         "id_image": "orbit_959128"
       }
     ],
-    "hash_code_list_img": "-1066673721"
+    "hash_code_list_img": "-68440628"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/order_gg_img_4500_it.json",
@@ -3046,7 +3001,7 @@
         "id_image": "order_804665"
       }
     ],
-    "hash_code_list_img": "-1396357464"
+    "hash_code_list_img": "342480577"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/ore_gg_img_4500_it.json",
@@ -3067,7 +3022,7 @@
         "id_image": "ore_4148466"
       }
     ],
-    "hash_code_list_img": "943051804"
+    "hash_code_list_img": "1883380263"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/organic_gg_img_4500_it.json",
@@ -3103,7 +3058,7 @@
         "id_image": "organic_5756895"
       }
     ],
-    "hash_code_list_img": "648388014"
+    "hash_code_list_img": "104853858"
   },
   {
     "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/organism_gg_img_4500_it.json",
@@ -3133,6 +3088,46 @@
         "id_image": "organism_4178750"
       }
     ],
-    "hash_code_list_img": "1492436954"
+    "hash_code_list_img": "303224079"
+  },
+  {
+    "link_it": "https://github.com/lmbstudiocontact/gg_img_4500_it_2/raw/main/organization_gg_img_4500_it.json",
+    "id_item": "organization_gg_img_4500_it",
+    "id_album": "102079919",
+    "english": "organization",
+    "list_mean": [
+      "cơ quan",
+      "cách cấu tạo",
+      "cách tổ chức",
+      "sự chăm nom",
+      "sự giữ gìn",
+      "tổ chức chánh trị"
+    ],
+    "cau_en": "the organization of conferences and seminars",
+    "cau_vn": "Tổ chức hội nghị và hội thảo",
+    "hash_code_list_mean": "-722351135",
+    "list_img": [
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809343566_2b747375bf_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343566_62e80ab8bb_o.png",
+        "id_image": "organization_171020"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809381876_8e903abfcd_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809381876_d02c83f913_o.png",
+        "id_image": "organization_2654507"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809343461_176daa883a_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809343461_71a1481d8e_o.png",
+        "id_image": "organization_3985220"
+      },
+      {
+        "link_thumb": "https://live.staticflickr.com/65535/51809698739_442d6d8497_n.jpg",
+        "link_img": "https://live.staticflickr.com/65535/51809698739_f83756aeea_o.png",
+        "id_image": "organization_943777"
+      }
+    ],
+    "hash_code_list_img": "187562765"
   }
 ]
